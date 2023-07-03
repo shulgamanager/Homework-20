@@ -1,11 +1,4 @@
-{
-	"info": {
-		"_postman_id": "f3c5da32-f90b-4da3-ba7f-ce9885d90c2b",
-		"name": "Homework_19",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "27837094",
-		"_collection_link": "https://www.postman.com/research-explorer-88818244/workspace/practice-18/collection/27837094-f3c5da32-f90b-4da3-ba7f-ce9885d90c2b?action=share&creator=27837094&source=collection_link"
-	},
+{"Hello world")
 	"item": [
 		{
 			"name": "Sign in user",
